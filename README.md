@@ -1,5 +1,5 @@
 ## Mon site web
-https://okev.xyz/p/cutox/
+http://okev.xyz/p/cutox
 
 https://wiki.okev.xyz/
 
