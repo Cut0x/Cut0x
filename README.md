@@ -1,7 +1,7 @@
 ## Mon site web
-http://okev.xyz/p/cutox
+https://cutox.tech/
 
-https://wiki.okev.xyz/
+https://twitch.cutox.tech/
 
 ## Languages:
   <p>
