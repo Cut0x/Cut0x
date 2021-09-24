@@ -27,3 +27,6 @@ db.set("utilisateur_monnaie", 5) // si l'utilisateur était à 10, il sera à 5 
 
 .........
 ```
+
+## Vous voulez faire un bot Discord ?
+<a href="https://github.com/Cut0x/SimpleBotDiscord">C'est par <strong>ici</strong> qui ça se passe !</a>
