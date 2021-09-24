@@ -11,7 +11,8 @@ Vous pouvez venir sur mon <a href="https://discord.cutox.tech/" target="_blank">
 Utiliser <a href="https://github.com/Cut0x/quickExemple">Quick.db</a> et vous allez voir ! vous allez être refait !
 ```js
 // VISUALISATION !
-// const Discord [...]
+
+
 const db = require("quick.db");
 
 // Ajouter une valeur numérique
