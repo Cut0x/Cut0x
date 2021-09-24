@@ -5,4 +5,4 @@ https://cutox.tech/
 https://twitch.cutox.tech/
 
 
-Vous pouvez venir sur mon <a href="https://discord.cutox.tech/">serveur <strong>Discord</strong></a> pour la sortie de mes lives !
+Vous pouvez venir sur mon <a target="_blank" href="https://discord.cutox.tech/">serveur <strong>Discord</strong></a> pour la sortie de mes lives !
