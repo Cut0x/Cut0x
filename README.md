@@ -1,9 +1,7 @@
-## Mon site web
+## Mes liens
 https://cutox.tech/
-
-## Mon twitch
+https://dons.cutox.tech/
 https://twitch.cutox.tech/
-
 
 Vous pouvez venir sur mon <a href="https://discord.cutox.tech/" target="_blank">serveur <strong>Discord</strong></a> pour la sortie de mes lives !
 
