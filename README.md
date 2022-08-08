@@ -1,1 +1,1 @@
-***SOON***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&layout=compact&theme=discord_old_blurple) ![Cut0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cut0x&show_icons=true&theme=discord_old_blurple)
