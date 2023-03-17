@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cut0x&label=Profile%20views&color=0e75b6&style=flat" alt="cut0x" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cut0x" alt="cut0x" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cut0x&theme=onedark" alt="cut0x" /></a> </p>
 <h2 align="left">Hi 👋! My name is Cut0x and I'm a developer, from French</h2>
 
 ###
