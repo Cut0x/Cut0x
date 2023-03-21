@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Cut0x/my-website/blob/main/src/assets/logo.png"  />
+<img align="right" height="150" src="https://github.com/Cut0x/my-website/blob/main/src/assets/logo.png" style="border-radius: 150px;" />
 
 ###
 
