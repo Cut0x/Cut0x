@@ -4,18 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cut0x&label=Profile%20views&color=0e75b6&style=flat" alt="cut0x" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cut0x&theme=onedark" alt="cut0x" /></a> </p>
-<h2 align="center">Hi 👋! My name is Cut0x and I'm a developer, from French</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Cut0x" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Cut0x" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cut0x&theme=solarized_dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&theme=solarized_dark" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://github.com/Cut0x/my-website/blob/main/src/assets/logo.png" style="border-radius: 150px;" />
 
 ###
 
