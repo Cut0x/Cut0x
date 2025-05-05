@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cut0x&theme=solarized_dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&theme=solarized_dark" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cut0x&theme=codeSTACKr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&theme=codeSTACKr" height="150" alt="languages graph"  />
 </div>
 
 ###
