@@ -1,55 +1,108 @@
-<h1 align="center">Hi 👋, I'm Cut0x</h1>
-<h3 align="center">A passionate developer from France</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cut0x&label=Profile%20views&color=0e75b6&style=flat" alt="cut0x" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Cut0x&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="cut0x trophies" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-</div>
-
----
-
-## 📈 GitHub Stats
+# 👋 Bonjour, je suis Cut0x
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cut0x&theme=codeSTACKr" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&layout=compact&theme=codeSTACKr" height="180" />
+  
+**Développeur Full-Stack passionné basé en France** 🇫🇷
+
+*Créateur de solutions web modernes et innovantes*
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Cut0x&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Cut0x?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" />
+</p>
+
 </div>
 
 ---
 
-## 📱 Connect with Me
+## 🌟 Fondateur de Checklogs.Dev
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCzYSf-VLGKlqmnT6_E3hAXw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+<div align="center">
+  
+[![ChecklogsDev](https://img.shields.io/badge/Organization-ChelogsDev-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chelogsdev)
+
+</div>
+
+---
+
+## 🚀 À propos de moi
+
+Je suis un développeur passionné qui aime créer des expériences web engageantes et résoudre des problèmes complexes à travers le code. Mon parcours m'a mené à explorer diverses technologies et à construire des projets variés, de l'interface utilisateur au développement backend.
+
+```javascript
+const developerProfile = {
+  name: "Loïc",
+  location: "France",
+  focus: ["Web Development", "Problem Solving", "Clean Code"],
+  currentlyLearning: "Nouvelles technologies et meilleures pratiques",
+  collaboration: "Toujours ouvert à de nouveaux projets intéressants"
+};
+```
+
+---
+
+## 💻 Stack Technique
+
+<div align="center">
+
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+
+### Backend & Scripts
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cut0x&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=333" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=333" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cut0x&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=333" height="180" />
+</div>
+
+### 🏆 Réalisations
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cut0x&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,Commits,PullRequest" alt="Trophées GitHub" />
   </a>
-  <a href="https://instagram.com/valloic_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitch.tv/cut0x" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/26HvypuvxR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://twitter.com/cut0x_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+</div>
+
+---
+
+## 🎯 Projets & Intérêts
+
+- 🌐 **Développement Web** : Création d'interfaces utilisateur modernes et responsives
+- 📚 **Apprentissage continu** : Toujours en quête de nouvelles technologies à maîtriser
+
+---
+
+## 📱 Restons connectés
+
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cut0x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valloic_)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cut0x)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/26HvypuvxR)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cut0x_)
+
+</div>
+
+---
+
+<div align="center">
+
+**⚡ Toujours prêt pour de nouveaux défis et collaborations !**
+
+*N'hésitez pas à explorer mes repositories et à me contacter pour des projets intéressants*
+
 </div>
