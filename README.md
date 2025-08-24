@@ -19,7 +19,7 @@
 
 <div align="center">
   
-[![ChecklogsDev](https://img.shields.io/badge/Organization-ChelogsDev-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chelogsdev)
+[![ChecklogsDev](https://img.shields.io/badge/Organization-checklogsdev-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/checklogsdev)
 
 </div>
 
