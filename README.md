@@ -11,33 +11,11 @@
   <img src="https://img.shields.io/github/followers/Cut0x?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" />
 </p>
 
-</div>
-
----
-
-## 🌟 Fondateur de Checklogs.Dev
-
-<div align="center">
-  
-[![ChecklogsDev](https://img.shields.io/badge/Organization-checklogsdev-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/checklogsdev)
+<p>
+  [![ChecklogsDev](https://img.shields.io/badge/Organization-checklogsdev-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/checklogsdev)
+</p>
 
 </div>
-
----
-
-## 🚀 À propos de moi
-
-Je suis un développeur passionné qui aime créer des expériences web engageantes et résoudre des problèmes complexes à travers le code. Mon parcours m'a mené à explorer diverses technologies et à construire des projets variés, de l'interface utilisateur au développement backend.
-
-```javascript
-const developerProfile = {
-  name: "Loïc",
-  location: "France",
-  focus: ["Web Development", "Problem Solving", "Clean Code"],
-  currentlyLearning: "Nouvelles technologies et meilleures pratiques",
-  collaboration: "Toujours ouvert à de nouveaux projets intéressants"
-};
-```
 
 ---
 
@@ -76,17 +54,6 @@ const developerProfile = {
   </a>
 </div>
 
----
-
-## 🎯 Projets & Intérêts
-
-- 🌐 **Développement Web** : Création d'interfaces utilisateur modernes et responsives
-- 📚 **Apprentissage continu** : Toujours en quête de nouvelles technologies à maîtriser
-
----
-
-## 📱 Restons connectés
-
 <div align="center">
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cut0x)
@@ -94,6 +61,7 @@ const developerProfile = {
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cut0x)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/26HvypuvxR)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cut0x_)
+[![CheckLogsDev]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://cdn.discordapp.com/attachments/1186007303128895549/1418086921288024284/676f436f6c6f723d7768697465.png?ex=68ccd7dc&is=68cb865c&hm=39e9800d2c5239a149b6137cd7e9d52ef41d9cbd4dfd67eb70b9e38ed9ff057a&))](https://checklogs.dev)
 
 </div>
 
