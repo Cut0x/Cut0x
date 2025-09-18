@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/github/followers/Cut0x?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" />
 </p>
 
-<p>
-  [![ChecklogsDev](https://img.shields.io/badge/Organization-checklogsdev-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/checklogsdev)
-</p>
-
 </div>
 
 ---
