@@ -32,17 +32,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cut0x&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=333" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cut0x&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=333" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cut0x&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=333" height="180" />
-</div>
-
 ### 🏆 Réalisations
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -57,16 +46,5 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cut0x)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/26HvypuvxR)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cut0x_)
-[![CheckLogsDev]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://cdn.discordapp.com/attachments/1186007303128895549/1418086921288024284/676f436f6c6f723d7768697465.png?ex=68ccd7dc&is=68cb865c&hm=39e9800d2c5239a149b6137cd7e9d52ef41d9cbd4dfd67eb70b9e38ed9ff057a&))](https://checklogs.dev)
-
-</div>
-
----
-
-<div align="center">
-
-**⚡ Toujours prêt pour de nouveaux défis et collaborations !**
-
-*N'hésitez pas à explorer mes repositories et à me contacter pour des projets intéressants*
 
 </div>
