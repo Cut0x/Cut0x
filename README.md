@@ -1,8 +1,8 @@
-# 👋 Bonjour, je suis Cut0x
+# 👋 Bonjour, je suis Loïc
 
 <div align="center">
   
-**Développeur Full-Stack passionné basé en France**
+**Développeur Full-Stack passionné basé en France**<br>
 *Créateur de solutions web modernes et innovantes*
 
 </div>
