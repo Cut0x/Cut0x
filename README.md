@@ -1,5 +1,5 @@
 # 👋 Bonjour, je suis Loïc
-[![Ezzud's Github Readme Discord Card](https://discord-readme-card.ezzud.fr/?userid=574544938440851466)](https://github.com/Cut0x)
+[![Ezzud's Github Readme Discord Card](https://discord-readme-card.ezzud.fr/?userid=574544938440851466)](https://github.com/Cut0x)<br>
 **Développeur Full-Stack passionné basé en France**<br>
 *Créateur de solutions web modernes et innovantes*
 
